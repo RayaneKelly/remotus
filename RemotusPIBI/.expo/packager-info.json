@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://vp-266.anonymous.testeremo.exp.direct",
+  "packagerNgrokUrl": "https://packager.vp-266.anonymous.testeremo.exp.direct",
+  "ngrokPid": 6792,
+  "packagerPid": null,
+  "webpackServerPort": null
+}
